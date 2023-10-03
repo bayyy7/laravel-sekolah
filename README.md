@@ -7,6 +7,6 @@ Features : </br>
 - CRUD Agenda </br>
 - And More </br>
 
-'git clone'
+`git clone https://github.com/bayyy7/laravel-sekolah.git`
 
 
