@@ -1,8 +1,8 @@
-Website Sistem Informasi tentang Sekolah menggunakan Laravel dengan AdminLTE dan API GoogleMaps
-Dibuat oleh :
+## School Information System using laravel 8 Backend + Botstrap 3 Frontend</br>
+Fitur : </br>
+- CRUD Admin </br>
+- CRUD Pengumuman </br>
+- CRUD Agenda </br>
+- And More </br>
 
-Rizky Indrabayu                 202010370311271
 
-Dian Putranti Prita Arianti     202010370311273
-
-M. Fikri Raihan                 202010370311296
