@@ -10,11 +10,11 @@ Create by : Rizky Indrabayu </br>
 ###Step to Use
 1. `git clone https://github.com/bayyy7/laravel-sekolah.git`
 2. `cd laravel-sekolah` 
-3. `composer install`</br>
-4. Create .env file </br>
-5. Adjust `DB_DATABASE` as yours</br>
-6. `php artisan key:generate`</br>
-7. `php artisan migrate --see`</br>
-8. `php artisan serve`</br>
+3. `composer install`
+4. Create .env file 
+5. Adjust `DB_DATABASE` as yours
+6. `php artisan key:generate`
+7. `php artisan migrate --see`
+8. `php artisan serve`
 
 
