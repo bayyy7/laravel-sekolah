@@ -8,8 +8,8 @@ Create by : Rizky Indrabayu </br>
 - And More </br>
 
 ###Step to Use
-1. `git clone https://github.com/bayyy7/laravel-sekolah.git`</br>
-2. `cd laravel-sekolah` </br>
+1. `git clone https://github.com/bayyy7/laravel-sekolah.git`
+2. `cd laravel-sekolah` 
 3. `composer install`</br>
 4. Create .env file </br>
 5. Adjust `DB_DATABASE` as yours</br>
