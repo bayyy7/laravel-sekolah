@@ -1,8 +1,8 @@
-## School Information System using laravel 8 Backend + Botstrap 3 Frontend</br>
+## School Information System using laravel 8 Backend + Botstrap 3 Fronten
 This is part of my project to regenerate my previous School (SMPN 2 Jombang) website. </br>
 Create by : Rizky Indrabayu </br>
 
-### Features : </br>
+### Features :
 - CRUD Admin </br>
 - CRUD Pengumuman </br>
 - CRUD Agenda </br>
